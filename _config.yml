@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Heechan Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Love Data, Create Something that makes life easier"
+  bio              : "Love Data,\n Create Something that makes Life easier"
   location         : "Korea"
   email            : "lhc101020@gmail.com"
   links:
