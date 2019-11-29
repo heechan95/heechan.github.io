@@ -20,6 +20,7 @@ blah, blah
 
 <a name='model'></a>
 #### Model
+This formula $f(x) = x^2$ is an example.
 blah, blah
 
 <a name='add'></a>
