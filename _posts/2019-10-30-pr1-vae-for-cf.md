@@ -16,9 +16,12 @@ Table of Contents:
 <a name='summary'></a>
 ## Summary
 blah, blah
+$ y = {f}_{\theta }(x) = s(Wx + b) $
+
 
 <a name='model'></a>
 #### Model
+<b>aaaa
 blah, blah
 
 <a name='add'></a>
