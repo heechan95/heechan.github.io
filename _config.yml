@@ -156,13 +156,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
 
 # Reading Files
 include:
