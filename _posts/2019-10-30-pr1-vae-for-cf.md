@@ -9,18 +9,16 @@ tags:
 
 Table of Contents:
 
-- [Abstract](#abs)
 - [Summary](#summary)
+   -[Model Structure](#model)
 - [Additional references](#add)
-
-<a name='abs'></a>
-## Abstract
-blah, blah
-
-
 
 <a name='summary'></a>
 ## Summary
+blah, blah
+
+<a name='model'></a>
+### Model
 blah, blah
 
 <a name='add'></a>
