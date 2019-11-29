@@ -1,6 +1,6 @@
 ---
 title: "PR1 - VAE for Collaboraitve Filtering"
-date: 2019-11-10T15:34:30-04:00
+date: 2019-11-30T15:34:30-04:00
 categories:
   - paper
 tags:
