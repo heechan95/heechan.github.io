@@ -5,6 +5,7 @@ categories:
   - paper
 tags:
   - recommender system
+use_math: true
 ---
 
 Table of Contents:
