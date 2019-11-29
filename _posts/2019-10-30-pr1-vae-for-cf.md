@@ -21,7 +21,11 @@ blah, blah
 
 <a name='model'></a>
 #### Model
+```latex
 This formula $f(x) = x^2$ is an example.
+```
+> This formula $f(x) = x^2$ is an example.
+
 blah, blah
 
 <a name='add'></a>
