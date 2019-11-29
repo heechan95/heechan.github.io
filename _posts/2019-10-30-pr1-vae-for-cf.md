@@ -5,6 +5,7 @@ categories:
   - paper
 tags:
   - recommender system
+use_math: true
 ---
 
 Table of Contents:
@@ -20,6 +21,8 @@ blah, blah
 
 <a name='model'></a>
 #### Model
+\sum
+
 blah, blah
 
 <a name='add'></a>
