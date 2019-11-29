@@ -1,5 +1,4 @@
 ---
-layout : category
 title: "Welcome to Heechan's Tech Blog!"
 date: 2019-11-10T15:34:30-04:00
 categories:
