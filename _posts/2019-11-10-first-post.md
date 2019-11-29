@@ -8,7 +8,5 @@ tags:
 ---
 
 Hello! I'm Heechan Lee.
-
 I will post notes about papers that I read
-
-My interest is `Recommender System`, `Computer Vision`
+My interest is `Recommender System`, `Computer Vision`, `semi-supervised learning`, and `self-supervsied learning`
