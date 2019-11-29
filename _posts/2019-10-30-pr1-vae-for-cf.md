@@ -10,7 +10,7 @@ tags:
 Table of Contents:
 
 - [Summary](#summary)
-   -[Model Structure](#model)
+  -[Model Structure](#model)
 - [Additional references](#add)
 
 <a name='summary'></a>
